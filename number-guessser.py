@@ -30,6 +30,6 @@ while True:
     else:
         print("You got wrong!")
 
-print("You got it in",guesses,"guesses")
+print("You got it in "+ str (guesses) +" guesses")
  
     
